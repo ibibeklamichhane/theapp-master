@@ -1,4 +1,4 @@
-A ReactJS application to make and play with text acoording to your needs.Ypu can convert the words to UpperCase,LowerCae,Count Number of characters,total repeating words.
+A ReactJS application to make and play with text acoording to your needs.You can convert the words to UpperCase,LowerCase,Count Number of characters,total repeating words.
 
 ![Screenshot from 2023-05-26 09-01-07](https://github.com/ibibeklamichhane/theapp-master/assets/46773730/bb623344-189a-48b5-ad0d-c5fac94f41a8)
 ![Screenshot from 2023-05-26 09-01-16](https://github.com/ibibeklamichhane/theapp-master/assets/46773730/c58250f7-79c9-4fd7-b5ac-343dc4e8f572)
